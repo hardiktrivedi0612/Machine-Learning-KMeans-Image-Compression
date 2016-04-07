@@ -8,5 +8,5 @@ dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
-.class
-.jpg
+*.class
+*.jpg
